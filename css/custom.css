@@ -40,8 +40,6 @@ body {
     letter-spacing: 0;
     font-size: 1.5em;
     color: #e0e0e0;
-    position: relative;
-    top: -0.6em;
 }
 
 
@@ -50,7 +48,6 @@ body {
     letter-spacing: 0;
     font-size: 1.5em;
     color: #e0e0e0;
-    top: -0.6em;
 }
 
 
@@ -59,7 +56,6 @@ body {
     height: 3.5em;
     display: inline-block;
     position: relative;
-    top: -0.6em;
     margin-left: 0.4em;
 
 }
