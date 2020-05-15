@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La história de la 22 on La revista de los alumnos</title>
+    <link>http://ediciones.la22.org/about/</link>
+    <description>Recent content in La história de la 22 on La revista de los alumnos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="http://ediciones.la22.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

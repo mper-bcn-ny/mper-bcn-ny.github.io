@@ -1,0 +1,65 @@
+/* your styles go here */
+
+body {
+    background-color: #100000;
+}
+
+#sidebar {
+    background-color: #efefef;
+}
+
+.sidebar-heading {
+    font-size: 2em;
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0;
+    margin-left: 0.4em;
+}
+
+.sidebar-p {
+    margin-top: 0.5em;
+}
+
+.logo-title td {
+    vertical-align: top;
+}
+
+.sidebar-content .logo {
+    margin-top: 0.5em;
+}
+
+.box-masonry h4 a {
+    font-size: 1em;
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0;
+}
+
+.small-navbar-heading a {
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 1.5em;
+    color: #e0e0e0;
+    position: relative;
+    top: -0.6em;
+}
+
+
+.small-navbar-heading a:hover {
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 1.5em;
+    color: #e0e0e0;
+    top: -0.6em;
+}
+
+
+.small-navbar-heading img {
+
+    height: 3.5em;
+    display: inline-block;
+    position: relative;
+    top: -0.6em;
+    margin-left: 0.4em;
+
+}
