@@ -106,7 +106,14 @@ La 22 404 Page not found |
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-        <h1>Page not found</h1>
+        <h1>Redirect</h1>
+    <script>
+
+        g=document.location;
+        g.replace(/.*portfolio(.*)/,"http://archivo.la22.org.s3-website.eu-west-3.amazonaws.com/archivo$1");
+        document.location.replace(g);
+
+    </script>
         <p><a href="https://mper-bcn-ny.github.io/">Return to the home page</a>.</p>
       </div>
     </div>
