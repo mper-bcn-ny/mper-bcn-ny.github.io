@@ -110,7 +110,7 @@ La 22 404 Page not found |
     <script>
 
         g=document.location;
-        g.replace(/.*portfolio(.*)/,"http://archivo.la22.org.s3-website.eu-west-3.amazonaws.com/archivo$1");
+        g = g.replace(/.*portfolio(.*)/,"http://archivo.la22.org.s3-website.eu-west-3.amazonaws.com/archivo$1");
         document.location.replace(g);
 
     </script>
