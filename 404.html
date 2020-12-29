@@ -109,7 +109,7 @@ La 22 404 Page not found |
         <h1>Redirect</h1>
     <script>
 
-        g=document.location;
+        g=document.location.href;
         g = g.replace(/.*portfolio(.*)/,"http://archivo.la22.org.s3-website.eu-west-3.amazonaws.com/archivo$1");
         document.location.replace(g);
 
