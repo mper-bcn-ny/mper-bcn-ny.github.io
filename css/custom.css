@@ -35,6 +35,14 @@ body {
     letter-spacing: 0;
 }
 
+.box-masonry {
+    background-color: #d0d0d0;
+}
+
+.box-masonry .box-masonry-text p{
+    color: #606060;
+}
+
 .small-navbar-heading a {
     text-transform: none;
     letter-spacing: 0;
