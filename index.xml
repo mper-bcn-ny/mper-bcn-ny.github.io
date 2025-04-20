@@ -4,449 +4,380 @@
     <title>La revista de los alumnos</title>
     <link>https://mper-bcn-ny.github.io/</link>
     <description>Recent content on La revista de los alumnos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 20 Dec 2022 09:03:40 +0100</lastBuildDate><atom:link href="https://mper-bcn-ny.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Apr 2025 11:53:13 +0200</lastBuildDate>
+    <atom:link href="https://mper-bcn-ny.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>En directo: 25ᴼ aniversario del Máster</title>
+      <link>https://mper-bcn-ny.github.io/portfolio/2025-master-25-anos/</link>
+      <pubDate>Wed, 09 Apr 2025 11:53:13 +0200</pubDate>
+      <guid>https://mper-bcn-ny.github.io/portfolio/2025-master-25-anos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Barcelona entre turistas y vecinos</title>
+      <link>https://mper-bcn-ny.github.io/portfolio/2025-vivienda/</link>
+      <pubDate>Wed, 09 Apr 2025 11:43:17 +0200</pubDate>
+      <guid>https://mper-bcn-ny.github.io/portfolio/2025-vivienda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>El desafío climático de Barcelona</title>
+      <link>https://mper-bcn-ny.github.io/portfolio/2024-cambio-climatico/</link>
+      <pubDate>Mon, 16 Dec 2024 11:24:33 +0200</pubDate>
+      <guid>https://mper-bcn-ny.github.io/portfolio/2024-cambio-climatico/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elecciones Municipales 2023</title>
+      <link>https://mper-bcn-ny.github.io/portfolio/2023-elecciones-municipales/</link>
+      <pubDate>Sun, 28 May 2023 11:13:09 +0200</pubDate>
+      <guid>https://mper-bcn-ny.github.io/portfolio/2023-elecciones-municipales/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Pequeñas soluciones para grandes retos</title>
       <link>https://mper-bcn-ny.github.io/portfolio/2022-soluciones/</link>
       <pubDate>Tue, 20 Dec 2022 09:03:40 +0100</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/2022-soluciones/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Catalunya abraza a Ucrania</title>
       <link>https://mper-bcn-ny.github.io/portfolio/2022-ucrania/</link>
       <pubDate>Fri, 29 Apr 2022 17:22:45 +0200</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/2022-ucrania/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Graduación XXII</title>
       <link>https://mper-bcn-ny.github.io/portfolio/2022-graduacion/</link>
       <pubDate>Fri, 01 Apr 2022 17:06:01 +0200</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/2022-graduacion/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Herramientas Digitales 2022</title>
       <link>https://mper-bcn-ny.github.io/portfolio/2022-hd/</link>
       <pubDate>Tue, 15 Feb 2022 17:18:00 +0200</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/2022-hd/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Barcelona ante el futuro</title>
       <link>https://mper-bcn-ny.github.io/portfolio/2022-barcelona-ante-el-futuro/</link>
       <pubDate>Sun, 06 Feb 2022 10:02:17 +0100</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/2022-barcelona-ante-el-futuro/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Encerrados</title>
       <link>https://mper-bcn-ny.github.io/portfolio/2020-encerrados/</link>
       <pubDate>Wed, 13 May 2020 23:44:24 +0200</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/2020-encerrados/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Graduación XXI</title>
       <link>https://mper-bcn-ny.github.io/portfolio/2020-graduacion/</link>
       <pubDate>Fri, 14 Feb 2020 22:46:19 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/2020-graduacion/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Accidentes en Barcelona</title>
       <link>https://mper-bcn-ny.github.io/portfolio/2020-accidentes/</link>
       <pubDate>Mon, 03 Feb 2020 22:46:19 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/2020-accidentes/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Barcelona ante la emergencia climatica</title>
       <link>https://mper-bcn-ny.github.io/portfolio/2019-barcelona-emergencia-climatica/</link>
       <pubDate>Tue, 17 Dec 2019 23:28:02 +0200</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/2019-barcelona-emergencia-climatica/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Elecciones 28 A | La hora decisiva</title>
       <link>https://mper-bcn-ny.github.io/portfolio/elecciones-28-a-la-hora-decisiva/</link>
       <pubDate>Wed, 19 Sep 2018 05:26:14 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/elecciones-28-a-la-hora-decisiva/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Barcelona, turismo y futuro</title>
       <link>https://mper-bcn-ny.github.io/portfolio/barcelona-turismo-y-futuro/</link>
       <pubDate>Thu, 05 Apr 2018 05:45:17 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/barcelona-turismo-y-futuro/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Los 20 años del Máster</title>
       <link>https://mper-bcn-ny.github.io/portfolio/los-20-anos-del-master/</link>
       <pubDate>Thu, 05 Apr 2018 05:33:38 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/los-20-anos-del-master/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Graduacion XIX</title>
       <link>https://mper-bcn-ny.github.io/portfolio/2018-graduacion-xix/</link>
       <pubDate>Wed, 14 Feb 2018 14:03:33 +0100</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/2018-graduacion-xix/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cataluña en Cifras</title>
       <link>https://mper-bcn-ny.github.io/portfolio/2018-cataluna-cifras/</link>
       <pubDate>Tue, 06 Feb 2018 11:19:08 +0100</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/2018-cataluna-cifras/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Elecciones 21-D</title>
       <link>https://mper-bcn-ny.github.io/portfolio/elecciones-21-d/</link>
       <pubDate>Sat, 23 Dec 2017 10:56:28 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/elecciones-21-d/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sant Jordi 2017</title>
       <link>https://mper-bcn-ny.github.io/portfolio/sant-jordi-2017/</link>
       <pubDate>Fri, 15 Dec 2017 17:39:54 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/sant-jordi-2017/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>El año feminista</title>
       <link>https://mper-bcn-ny.github.io/portfolio/el-anio-feminista/</link>
       <pubDate>Mon, 16 Oct 2017 21:59:00 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/el-anio-feminista/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Marea De Indignación</title>
       <link>https://mper-bcn-ny.github.io/portfolio/marea-de-indignacion/</link>
       <pubDate>Mon, 16 Oct 2017 21:54:59 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/marea-de-indignacion/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Un viaje por los datos de Barcelona</title>
       <link>https://mper-bcn-ny.github.io/portfolio/2017-viaje-datos-barcelona/</link>
       <pubDate>Tue, 07 Mar 2017 19:11:49 +0100</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/2017-viaje-datos-barcelona/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Barcelona - Luz y Sombra</title>
       <link>https://mper-bcn-ny.github.io/portfolio/barcelona-luz-sombra/</link>
       <pubDate>Thu, 15 Dec 2016 16:32:16 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/barcelona-luz-sombra/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sant Jordi 2016</title>
       <link>https://mper-bcn-ny.github.io/portfolio/sant-jordi-2016/</link>
       <pubDate>Tue, 27 Oct 2015 08:57:30 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/sant-jordi-2016/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>[Sobre]vivir Barcelona</title>
       <link>https://mper-bcn-ny.github.io/portfolio/sobrevivir-barcelona/</link>
       <pubDate>Mon, 25 May 2015 14:34:49 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/sobrevivir-barcelona/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Elecciones Municipales 2015</title>
       <link>https://mper-bcn-ny.github.io/portfolio/elecciones-municipales-2015/</link>
       <pubDate>Mon, 25 May 2015 14:17:25 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/elecciones-municipales-2015/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>La Economista</title>
       <link>https://mper-bcn-ny.github.io/portfolio/la-economista/</link>
       <pubDate>Tue, 19 May 2015 13:11:13 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/la-economista/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Historias de Barcelona</title>
       <link>https://mper-bcn-ny.github.io/portfolio/historias-de-barcelona/</link>
       <pubDate>Fri, 17 Apr 2015 20:08:57 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/historias-de-barcelona/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Elecciones Generales 2015</title>
       <link>https://mper-bcn-ny.github.io/portfolio/elecciones-generales-2015/</link>
       <pubDate>Mon, 02 Feb 2015 08:05:38 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/elecciones-generales-2015/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>La consulta de la independéncia</title>
       <link>https://mper-bcn-ny.github.io/portfolio/consulta-9n-2014/</link>
       <pubDate>Sun, 09 Nov 2014 14:32:50 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/consulta-9n-2014/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Elecciones Europeas 2014</title>
       <link>https://mper-bcn-ny.github.io/portfolio/elecciones-europeas-2014/</link>
       <pubDate>Sun, 25 May 2014 14:32:50 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/elecciones-europeas-2014/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>B-Side Barcelona</title>
       <link>https://mper-bcn-ny.github.io/portfolio/b-side-barcelona/</link>
       <pubDate>Mon, 19 May 2014 13:29:39 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/b-side-barcelona/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sant Jordi 2015</title>
       <link>https://mper-bcn-ny.github.io/portfolio/sant-jordi-2015/</link>
       <pubDate>Mon, 19 May 2014 13:22:30 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/sant-jordi-2015/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>El 22@</title>
       <link>https://mper-bcn-ny.github.io/portfolio/el-22/</link>
       <pubDate>Mon, 19 May 2014 13:17:48 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/el-22/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sant Jordi 2013</title>
       <link>https://mper-bcn-ny.github.io/portfolio/sant-jordi-2013/</link>
       <pubDate>Sun, 26 May 2013 00:41:36 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/sant-jordi-2013/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>El encanto de Els Encants</title>
       <link>https://mper-bcn-ny.github.io/portfolio/el-encanto-dels-encants/</link>
       <pubDate>Sun, 19 May 2013 12:58:20 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/el-encanto-dels-encants/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>El Mundet 2012</title>
       <link>https://mper-bcn-ny.github.io/portfolio/el-mundet-2012/</link>
       <pubDate>Fri, 25 May 2012 22:46:49 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/el-mundet-2012/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sant Jordi 2012</title>
       <link>https://mper-bcn-ny.github.io/portfolio/sant-jordi-2012/</link>
       <pubDate>Thu, 26 May 2011 00:39:49 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/sant-jordi-2012/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>El Mar</title>
       <link>https://mper-bcn-ny.github.io/portfolio/el-mar/</link>
       <pubDate>Tue, 25 May 2010 23:03:20 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/el-mar/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Gente de la noche</title>
       <link>https://mper-bcn-ny.github.io/portfolio/gente-de-la-noche/</link>
       <pubDate>Tue, 25 May 2010 23:01:38 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/gente-de-la-noche/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>El Tiempo</title>
       <link>https://mper-bcn-ny.github.io/portfolio/el-tiempo/</link>
       <pubDate>Tue, 25 May 2010 22:55:01 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/el-tiempo/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Los 5 sentidos</title>
       <link>https://mper-bcn-ny.github.io/portfolio/los-5-sentidos/</link>
       <pubDate>Tue, 25 May 2010 22:52:23 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/los-5-sentidos/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Elecciones 2011</title>
       <link>https://mper-bcn-ny.github.io/portfolio/elecciones-2011/</link>
       <pubDate>Tue, 25 May 2010 22:51:13 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/elecciones-2011/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Migración</title>
       <link>https://mper-bcn-ny.github.io/portfolio/migracion/</link>
       <pubDate>Tue, 26 May 2009 00:34:14 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/migracion/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Los Desamparados</title>
       <link>https://mper-bcn-ny.github.io/portfolio/los-desamparados/</link>
       <pubDate>Tue, 26 May 2009 00:28:38 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/los-desamparados/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>El Papa en Barcelona</title>
       <link>https://mper-bcn-ny.github.io/portfolio/el-papa-en-barcelona/</link>
       <pubDate>Thu, 14 May 2009 07:51:39 +0200</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/el-papa-en-barcelona/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Elecciones Europeas 2009</title>
       <link>https://mper-bcn-ny.github.io/portfolio/elecciones-europeas-2009/</link>
       <pubDate>Mon, 26 May 2008 00:19:05 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/elecciones-europeas-2009/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Elecciones 2008</title>
       <link>https://mper-bcn-ny.github.io/portfolio/elecciones-2008/</link>
       <pubDate>Fri, 25 May 2007 23:00:01 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/elecciones-2008/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>El pulso de la ciudad</title>
       <link>https://mper-bcn-ny.github.io/portfolio/mundet-06/</link>
       <pubDate>Thu, 25 May 2006 22:38:57 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/mundet-06/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Las caras de Barcelona</title>
       <link>https://mper-bcn-ny.github.io/portfolio/mundet-07/</link>
       <pubDate>Thu, 25 May 2006 22:38:00 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/mundet-07/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Forum de las Culturas</title>
       <link>https://mper-bcn-ny.github.io/portfolio/forum-de-las-culturas/</link>
       <pubDate>Mon, 26 May 2003 00:13:54 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/forum-de-las-culturas/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Elecciones Municipales 2003</title>
       <link>https://mper-bcn-ny.github.io/portfolio/elecciones-municipales-2003/</link>
       <pubDate>Sun, 26 May 2002 00:15:54 +0000</pubDate>
-      
       <guid>https://mper-bcn-ny.github.io/portfolio/elecciones-municipales-2003/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

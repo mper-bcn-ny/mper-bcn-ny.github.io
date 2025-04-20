@@ -4,7 +4,8 @@
     <title>Ediciones on La revista de los alumnos</title>
     <link>https://mper-bcn-ny.github.io/ediciones/</link>
     <description>Recent content in Ediciones on La revista de los alumnos</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="https://mper-bcn-ny.github.io/ediciones/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <atom:link href="https://mper-bcn-ny.github.io/ediciones/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
